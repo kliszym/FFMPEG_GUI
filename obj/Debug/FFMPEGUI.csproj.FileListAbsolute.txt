@@ -1,0 +1,9 @@
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\bin\Debug\FFMPEGUI.exe.config
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\bin\Debug\FFMPEGUI.exe
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\bin\Debug\FFMPEGUI.pdb
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\obj\Debug\FFMPEGUI.csprojResolveAssemblyReference.cache
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\obj\Debug\FFMPEGUI.Form1.resources
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\obj\Debug\FFMPEGUI.Properties.Resources.resources
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\obj\Debug\FFMPEGUI.csproj.GenerateResource.Cache
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\obj\Debug\FFMPEGUI.exe
+C:\Users\klisz\Documents\Visual Studio 2015\Projects\FFMPEGUI\FFMPEGUI\obj\Debug\FFMPEGUI.pdb
